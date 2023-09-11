@@ -8,3 +8,16 @@ The `git log` command is used to view the history and commit log of a repository
 </br>
 ## Git Revert:
 The `git revert` command is used to create a new commit that undoes the changes made in a previous commit, effectively reverting the changes. This allows you to keep a clear history while undoing specific modifications.
+
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
+ERROR! ERROR! ERROR! ERROR! ERROR!</br>
